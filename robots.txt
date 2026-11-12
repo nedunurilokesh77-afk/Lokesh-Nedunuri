@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nedunurilokesh77-afk.github.io/sitemap.xml
